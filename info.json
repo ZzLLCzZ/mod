@@ -1,6 +1,6 @@
 {
-  "name": "Template Mod Does nothing",
-  "description": "An empty template",
+  "name": "Progression+",
+  "description": "a lazy and not creative name but maybe it's good ?",
   "main_file": "main.py",
   "ui_file": "ui.json",
   "requires": [],
